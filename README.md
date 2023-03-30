@@ -5,6 +5,7 @@ Data table with filtering, order and pagination - Developed based on the idea an
 https://www.taniarascia.com/front-end-tables-sort-filter-paginate
 
 :computer: Developed with React.js using Vite.js
+<br>
 
 :es: ES<br>
 Tabla de datos con filtrado, orden y paginación - Desarrollada en base a la idea y desafío propuesto por Tania Rascia en su blog: https://www.taniarascia.com/front-end-tables-sort-filter-paginate
